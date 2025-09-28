@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **MohamadAli.AlFakih@hotmail.com**
 
-- ⚡ Fun fact **I’m learning Computer Science, but my friends think I just fix their phone problems for a living**
+- ⚡ Fun fact **A few Excel tasks at work sent me down the rabbit hole — from data analyst to coding enthusiast 💻🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
