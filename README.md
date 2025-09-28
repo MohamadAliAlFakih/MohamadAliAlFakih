@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently completing the **SE factory, Foundations of Computer Science course**
 
-- 🌱 I’m currently learning **Basics of Python, Functions, Recursion, Sorting and Searching Algorithms, Object Oriented Programming) and Introduction to Web Development (HTML, CSS, JavaScript, PHP, and SQL)**
+- 🌱 I’m currently learning **Basics of Python, Functions, Recursion, Sorting and Searching Algorithms, Object Oriented Programming and Introduction to Web Development (HTML, CSS, JavaScript, PHP, and SQL)**
 
 - 📫 How to reach me **MohamadAli.AlFakih@hotmail.com**
 
