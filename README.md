@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamad Ali Al Fakih</h1>
-<h3 align="center">An aspiring software engineer learning Computer Science, with an Analytical Mind and a strong foundation in data and technology</h3>
+<h3 align="center">An aspiring Computer Science student, with an Analytical Mind and a strong foundation in data and technology</h3>
 
 - 🔭 I’m currently completing the **SE factory, Foundations of Computer Science course**
 
